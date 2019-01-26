@@ -104,7 +104,5 @@ Developed By
 -------------
 Leon - miao1007@gmail.com
 
-添加了一个功能！！！！
 
-添加了第二个功能！！！
 
